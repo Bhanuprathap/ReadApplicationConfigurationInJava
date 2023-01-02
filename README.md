@@ -1,5 +1,5 @@
 
-# Basic Template for reading the application properties file for new user to the spring boot
+# Basic Template for reading the application properties file for the new user to the spring boot
 
 #ConfigurationServices class is used for reading the application properties using the @ConfigurationProperties annotation for default value if profiles is changed and properties are not exits in application properties or other profiles then it will use the values decalred with the @Value annotation.
 
